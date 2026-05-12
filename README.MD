@@ -1,9 +1,10 @@
 # <$Hasher-Core$> v1.0 🚀
-
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)--https://web.telegram.org/k/#@geiporno718s
 Developed by **k1rpit** 
 
----
-
+---![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ## 🛠 Описание
 **Hasher-Core** — это универсальное криптографическое ядро, написанное на Python. Инструмент позволяет быстро генерировать хеши различных стандартов: от классического MD5 до сверхнадежного SHA-512. Главная фишка — модуль динамической "присолки" для защиты паролей от брутфорса.
 
@@ -51,7 +52,7 @@ Developed by **k1rpit**
 ---
 
 ## 📜 Лицензия
-Этот проект распространяется под лицензией **GNU GPL v3**. Это значит, что код всегда будет открытым и свободным.
+Этот проект распространяется под лицензией **MIT**. Это значит, что код всегда будет открытым и свободным для вас только указавайти мой ник.
 
 ---
 ⚠️ **Disclaimer**: Инструмент создан исключительно в образовательных целях. Автор не несет ответственности за любой ущерб, причиненный использованием данного ПО.
