@@ -1,6 +1,7 @@
 # <$Hasher-Core$> v1.0 🚀
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)--https://web.telegram.org/k/#@geiporno718s
 Developed by **k1rpit**
+
 Gui Devloped By **Logs_Kevrokan**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
